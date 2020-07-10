@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'haml', '~> 5.1', '>= 5.1.2'
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
-gem 'bootstrap-sass', '~> 3.3.5.1'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'devise', '~> 4.2'
 
 group :development, :test do
